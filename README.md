@@ -20,5 +20,5 @@ All tasks divided by subjective level of complexity from 1 to 10
 
 ## TLDR
 
-I will be glad if you give feedback or add your interesting task(s)
+My solutions do not claim to be perfect implementation. I will be glad if you give your opinion on the best solution or add your interesting task(s)
 
