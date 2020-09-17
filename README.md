@@ -19,6 +19,8 @@ All tasks divided by subjective level of complexity from 1 to 10
 | [firstDuplicate](src/tasks/first_duplicate/first_duplicate.ts) | Given an array a that contains only numbers in the range from 1 to a.length, find the first duplicate number for which the second occurrence has the minimal index. | 2 | 
 | [findDeadlock](src/tasks/find_deadlock/README.md) | Write a function that returns True if connections describes a graph with a directed cycle, or False otherwise. | 6 |
 | [findRepeatedDNASequences](src/tasks/find_repeated_dna_sequences/README.md) | Write a function to find all the 10-letter sequences (substrings) that occur more than once in a DNA molecule `s`, and return them in [lexicographical order](keyword://lexicographical-order-for-strings). These sequences can overlap. | 2 |
+| [groupingDishes](src/tasks/grouping_dishes/README.md) | Return an array where each element is a list beginning with the ingredient name, followed by the names of all the dishes that contain this ingredient. The dishes inside each list should be sorted [lexicographically](keyword://lexicographical-order-for-strings), and the result array should be sorted [lexicographically](keyword://lexicographical-order-for-strings) by the names of the ingredients. | 2 |
+
 
  
 
