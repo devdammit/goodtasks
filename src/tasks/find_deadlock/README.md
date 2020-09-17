@@ -39,6 +39,10 @@ This graph doesn't contain a directed cycle (there are two paths from `0` to 
     - Return `True` if `connections` describes a graph with a directed cycle, or `False` otherwise.
 
 
+## Notes
+To find a solution to this problem, the topic "Breadth - First Search Algorithm" will help you
+
+
 ## Self Solution and spec
 
 - [Source file](find_deadlock.ts)
