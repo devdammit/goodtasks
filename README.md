@@ -18,9 +18,11 @@ All tasks divided by subjective level of complexity from 1 to 10
 | [maximalSquare](src/tasks/maximal_square/maximal_square.ts) | You have a 2D binary matrix that's filled with `0`s and `1`s. In the matrix, find the largest square that contains only `1`s and return its area. | 4 |
 | [firstDuplicate](src/tasks/first_duplicate/first_duplicate.ts) | Given an array a that contains only numbers in the range from 1 to a.length, find the first duplicate number for which the second occurrence has the minimal index. | 2 | 
 | [findDeadlock](src/tasks/find_deadlock/README.md) | Write a function that returns True if connections describes a graph with a directed cycle, or False otherwise. | 6 |
+| [findRepeatedDNASequences](src/tasks/find_repeated_dna_sequences/README.md) | Write a function to find all the 10-letter sequences (substrings) that occur more than once in a DNA molecule `s`, and return them in [lexicographical order](keyword://lexicographical-order-for-strings). These sequences can overlap. | 2 |
+
  
 
-## Books or resources that will help
+## Books or platforms that will help
 
 Platforms:
 - [Codewars](www.codewars.com)
