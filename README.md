@@ -14,7 +14,7 @@ All tasks divided by subjective level of complexity from 1 to 10
 
 | Task | Description | Level of complexity |
 | ---- | ----------- | ------------------- |
-| [maximalSquare](src/maximal_square.ts) | You have a 2D binary matrix that's filled with `0`s and `1`s. In the matrix, find the largest square that contains only `1`s and return its area. | 5 |
+| [maximalSquare](src/maximal_square.ts) | You have a 2D binary matrix that's filled with `0`s and `1`s. In the matrix, find the largest square that contains only `1`s and return its area. | 4 |
 
 
 ## TLDR
