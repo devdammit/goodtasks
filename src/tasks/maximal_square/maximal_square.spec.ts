@@ -28,17 +28,6 @@ describe('Maximal Square', () => {
         })
     })
 
-    it('should be return error when provided not a matrix', () => {
-        maximalSquare(matrix2D).tap({
-            left: error => {
-                expect(error).toBeInstanceOf(Error)
-                if (error) {
-                    expect(error.message.length).toBeGreaterThan(1)
-                }
-            },
-        })
-    })
-
     it('should be return error when provided not correct matrix', () => {
         const uncorrectMatrix1 = [
             ['1', '1'],
