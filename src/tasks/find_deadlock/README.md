@@ -40,7 +40,9 @@ This graph doesn't contain a directed cycle (there are two paths from `0` to 
 
 
 ## Notes
-To find a solution to this problem, the topic "Breadth - First Search Algorithm" will help you
+To find a solution to this problem, the topic "Breadth - First Search Algorithm" will help you.
+
+_Book:_ **Grokking algorithms - Chapter 6 "Breadth - First Search Algorithm"**
 
 
 ## Self Solution and spec
