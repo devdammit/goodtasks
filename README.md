@@ -44,10 +44,13 @@ _I use yarn because yarn supoorts workspaces, which i use in most of my projects
 
 
 **First step**
+
 Execute in console `yarn` or `npm install`
 
 **Run tests**
+
 _Default mode:_ Execute in console `yarn test` or `npm run test`
+
 _Watch mode:_ Execute in console `yarn test:watch` or `npm run test:watch`
 
 
