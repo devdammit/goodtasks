@@ -3,7 +3,7 @@
     "module": "commonjs",
     "target": "ES2017",
     "sourceMap": true,
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,

@@ -2,6 +2,11 @@ import { either, IEither } from '../../core/either'
 
 type ArrGraph = number[][]
 
+/**
+ * Find deadlock in graphs
+ * @param vertices - [[1], [2], [3, 4]]
+ * @returns true or false.
+ */
 export const findDeadlock = (vertices: ArrGraph): IEither<Error | undefined, boolean> => {
     const searched = new Map<number, number>()
 
