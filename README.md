@@ -35,6 +35,25 @@ Books:
 - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=pd_rhf_dp_s_pd_crcd_0_3/146-3949919-6944016?_encoding=UTF8&pd_rd_i=032157351X&pd_rd_r=a36e7f66-db59-4913-8282-fae86ea77207&pd_rd_w=Xd8LG&pd_rd_wg=JfCwT&pf_rd_p=943fed14-cf77-4e30-ab5d-881934acd4a9&pf_rd_r=XXR7JGJJZXKBSHMB8DQ1&psc=1&refRID=XXR7JGJJZXKBSHMB8DQ1)
 
 
+## How setup
+[Node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/get-npm) are required to continue setup.
+
+_Note:_
+_The best alternative [npm](https://www.npmjs.com/get-npm) is [yarn](https://yarnpkg.com/)._
+_I use yarn because yarn supoorts workspaces, which i use in most of my projects._
+
+
+**First step**
+Execute in console `yarn` or `npm install`
+
+**Run tests**
+_Default mode:_ Execute in console `yarn test` or `npm run test`
+_Watch mode:_ Execute in console `yarn test:watch` or `npm run test:watch`
+
+
+
+
+
 ## TLDR
 
 My solutions do not claim to be perfect implementation. I will be glad if you give your opinion on the best solution or add your interesting task(s)
