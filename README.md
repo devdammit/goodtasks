@@ -9,16 +9,29 @@ Here are some good tasks that I have met on the Internet or in interviews. For a
 - [TDD process](https://en.wikipedia.org/wiki/Test-driven_development)
 
 
+
 ## Tasks
 All tasks divided by subjective level of complexity from 1 to 10
 
 | Task | Description | Level of complexity |
 | ---- | ----------- | ------------------- |
-| [maximalSquare](src/maximal_square.ts) | You have a 2D binary matrix that's filled with `0`s and `1`s. In the matrix, find the largest square that contains only `1`s and return its area. | 4 |
-| [firstDuplicate](src/first_duplicate.ts) | Given an array a that contains only numbers in the range from 1 to a.length, find the first duplicate number for which the second occurrence has the minimal index. | 2 | 
+| [maximalSquare](src/tasks/maximal_square/maximal_square.ts) | You have a 2D binary matrix that's filled with `0`s and `1`s. In the matrix, find the largest square that contains only `1`s and return its area. | 4 |
+| [firstDuplicate](src/tasks/first_duplicate/first_duplicate.ts) | Given an array a that contains only numbers in the range from 1 to a.length, find the first duplicate number for which the second occurrence has the minimal index. | 2 | 
+| [findDeadlock](src/tasks/find_deadlock/README.md) | Write a function that returns True if connections describes a graph with a directed cycle, or False otherwise. | 6 |
+ 
+
+## Books or resources that will help
+
+Platforms:
+- [Codewars](www.codewars.com)
+- [Leetcode](www.leetcode.com)
+
+Books:
+- [Grokking algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+- [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=pd_rhf_dp_s_pd_crcd_0_3/146-3949919-6944016?_encoding=UTF8&pd_rd_i=032157351X&pd_rd_r=a36e7f66-db59-4913-8282-fae86ea77207&pd_rd_w=Xd8LG&pd_rd_wg=JfCwT&pf_rd_p=943fed14-cf77-4e30-ab5d-881934acd4a9&pf_rd_r=XXR7JGJJZXKBSHMB8DQ1&psc=1&refRID=XXR7JGJJZXKBSHMB8DQ1)
 
 
 ## TLDR
 
-I will be glad if you give feedback or add your interesting task(s)
+My solutions do not claim to be perfect implementation. I will be glad if you give your opinion on the best solution or add your interesting task(s)
 

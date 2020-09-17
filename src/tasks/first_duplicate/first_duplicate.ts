@@ -1,4 +1,4 @@
-import { either, IEither } from './core/either'
+import { either, IEither } from '../../core/either'
 
 export const firstDuplicate = (arr: number[]): IEither<Error | undefined, number> => {
     const dict = {} as Record<number, number>

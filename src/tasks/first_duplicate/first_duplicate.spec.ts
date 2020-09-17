@@ -12,7 +12,7 @@ describe('First duplicate', () => {
     })
 
     it('should be return -1 when no such elements', () => {
-        const expectedCb = value => expect(value).toBe(-1)
+        const expectedCb = (value: number) => expect(value).toBe(-1)
 
         firstDuplicate([2, 4, 3, 5, 1]).tap({
             right: expectedCb,

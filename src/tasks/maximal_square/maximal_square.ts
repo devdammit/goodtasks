@@ -1,4 +1,4 @@
-import { either, IEither } from './core/either'
+import { either, IEither } from '../../core/either'
 
 type Matrix2D = string[][]
 
